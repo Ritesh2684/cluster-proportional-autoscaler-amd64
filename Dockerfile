@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/cluster-proportional-autoscaler-amd64:latest
+FROM k8s.gcr.io/addon-resizer:1.8.4
 
 LABEL maintainer="ritesh <callritesh2005@gmail.com>"
